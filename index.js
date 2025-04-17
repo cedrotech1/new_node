@@ -4,7 +4,7 @@
   app.get("/users",(req,res)=>{
     res.send({message:"users",data:[{
       id:1,
-      name:"cedro",
+      name:"cedrick",
       age:20
     }]}); 
   })
